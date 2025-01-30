@@ -149,6 +149,21 @@ h2,
         "WONK" 0;
 }
 
+@media screen and (max-width: 37.5rem) {
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card {
+        flex-direction: column;
+        max-width: 90%;
+    }
+    
+}
+
 .attribution {
     margin-top: 1rem;
 
