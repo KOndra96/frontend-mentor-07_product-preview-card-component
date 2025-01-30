@@ -161,8 +161,7 @@ h2,
     .card {
         flex-direction: column;
         max-width: 90%;
-    }
-    
+    }    
 }
 
 .attribution {
